@@ -1,0 +1,31 @@
+body {
+  background-image: url(http://r-2pa.com/img/page_bg.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #424242;
+}
+
+.logo {
+  float: left;
+  width: 80px;
+  margin-top: -20px;
+  margin-left: 20px;
+}
+header {
+  margin-top: 0px;
+  width: 100%;
+}
+#hlogo {
+  margin-top: 30px;
+  color: #ffffff;
+  font-family: 'VT323', monospace;
+}
+nav {
+  float: right;
+  margin-top: -50px;
+  margin-right: 20px;
+  color: #ffffff;
+  font-family: 'VT323', monospace;
+  font-size: 30px;
+}
