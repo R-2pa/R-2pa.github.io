@@ -3,29 +3,36 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-color: #424242;
+  background-color: #1a1a1a;
 }
-
+.main {
+  margin-top: 20px;
+  color: #ffffff;
+  font-size: 30px;
+  font-family: 'VT323', monospace;
+}
 .logo {
   float: left;
   width: 80px;
-  margin-top: -20px;
   margin-left: 20px;
-}
-header {
-  margin-top: 0px;
-  width: 100%;
-}
-#hlogo {
-  margin-top: 30px;
-  color: #ffffff;
-  font-family: 'VT323', monospace;
+  margin-top: -20px;
 }
 nav {
   float: right;
-  margin-top: -50px;
   margin-right: 20px;
+}
+section {
+  text-align: center;
   color: #ffffff;
   font-family: 'VT323', monospace;
-  font-size: 30px;
+}
+#foot {
+  margin-top: 30px;
+  color: #ffffff;
+  text-align: center;
+}
+footer li {
+  display: inline;
+  padding: 30px;
+  font-family: 'VT323', monospace;
 }
