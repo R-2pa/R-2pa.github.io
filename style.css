@@ -54,7 +54,7 @@ button:hover {
     -webkit-transition: background .25s ease-in-out;
     transition: background .25s ease-in-out;
 }
-a, button {
+button {
     color: #0fb1dc;
     -webkit-transition: color .25s ease-in-out;
     transition: color .25s ease-in-out;
