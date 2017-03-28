@@ -40,8 +40,10 @@ footer li {
     background: #0f8ddc;
     color: #fff;
 }
-button:hover {
+a:hover, button:hover {
     color: #0fb1dc;
+    -webkit-transition: color .25s ease-in-out;
+    transition: color .25s ease-in-out;
 }
 .button {
     background: #434343;
