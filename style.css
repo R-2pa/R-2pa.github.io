@@ -40,7 +40,7 @@ footer li {
     background: #0f8ddc;
     color: #fff;
 }
-a:hover, button:hover {
+button:hover {
     color: #0fb1dc;
 }
 .button {
