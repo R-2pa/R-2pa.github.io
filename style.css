@@ -111,16 +111,3 @@ button {
   -webkit-transition: color .25s ease-in-out;
   transition: color .25s ease-in-out;
 }
-    color: #fff;
-    display: inline-block;
-    font-weight: bold;
-    padding: 12px 16px;
-    text-decoration: none;
-    -webkit-transition: background .25s ease-in-out;
-    transition: background .25s ease-in-out;
-}
-button {
-    color: #0fb1dc;
-    -webkit-transition: color .25s ease-in-out;
-    transition: color .25s ease-in-out;
-}
